@@ -1,0 +1,7 @@
+customer_state,high_risk_delay,orders_count,on_time_delivery,avg_delay_days,recommended_action,estimated_improvement
+AL,1,396,0.7525252525252525,-8.315656565656566,Prioritize logistics partner upgrade - Current on-time: 75.3%,9.74747474747475
+RR,1,46,0.782608695652174,-15.41304347826087,Prioritize logistics partner upgrade - Current on-time: 78.3%,6.739130434782603
+MA,1,725,0.8027586206896552,-9.361379310344828,Prioritize logistics partner upgrade - Current on-time: 80.3%,4.724137931034478
+SE,1,328,0.8140243902439024,-9.307926829268293,Prioritize logistics partner upgrade - Current on-time: 81.4%,3.5975609756097593
+CE,1,1298,0.8289676425269645,-10.311248073959938,Prioritize logistics partner upgrade - Current on-time: 82.9%,2.1032357473035446
+PI,1,479,0.8308977035490606,-10.920668058455115,Prioritize logistics partner upgrade - Current on-time: 83.1%,1.9102296450939416

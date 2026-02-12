@@ -1,0 +1,10 @@
+value_segment,frequency_segment,customer_count,total_revenue,recommended_action
+Low,Low,10837.0,541580.41,"Nurture - Educational content, incentives for next purchase"
+Low,Medium,10894.0,544426.59,"Nurture - Educational content, incentives for next purchase"
+Low,High,10092.0,504112.35,Bundle Deals - Increase average order value
+Medium,Low,10749.0,1180401.89,"Nurture - Educational content, incentives for next purchase"
+Medium,Medium,10660.0,1170406.78,"Nurture - Educational content, incentives for next purchase"
+Medium,High,10381.0,1143059.28,Upsell - Recommend premium products
+High,Low,10221.0,3416614.62,Re-engagement - Personalized promotions to increase frequency
+High,Medium,10252.0,3427682.53,Re-engagement - Personalized promotions to increase frequency
+High,High,11334.0,3915268.79,"VIP Program - Priority support, exclusive offers"
